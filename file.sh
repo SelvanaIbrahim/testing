@@ -3,4 +3,4 @@
 #cout<<"hello world!!"<<endl;
 #return 0;
 #}
-echo ">>>>>>>>>>>>>>hang young salavotaaa:* >>>>>>>>>>>>"
+echo ">>>>>>>>>>>>>>hang young >>>>>>>>>>>>"
